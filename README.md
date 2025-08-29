@@ -38,9 +38,9 @@ A seguir, é apresentado o índice de projetos, organizados de forma sequencial.
 |:---:|:---|:---:|:---|
 | 01 | Estruturação do Repositório | ✅ | 
 | 02 | Desenho de Laboratório (Home Lab) | ✅ |
-| 03 | Análise de Tráfego de Rede (Baseline) | ⬜ | 
-| 04 | Investigação de Ameaças em Captura de Pacotes (PCAP) | ⬜ 
-| 05 | Implementação de Firewall com `iptables` | ⬜ 
+| 03 | Análise de Tráfego de Rede (Baseline) | ✅ | 
+| 04 | Investigação de Ameaças em Captura de Pacotes (PCAP) | ✅ 
+| 05 | Implementação de Firewall com `iptables` | ✅ 
 | 06 | Análise de Logs de Eventos com PowerShell | ⬜ 
 | 07 | Análise de Técnica do MITRE ATT&CK | ⬜ |
 
