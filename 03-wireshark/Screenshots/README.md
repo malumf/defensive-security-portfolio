@@ -6,16 +6,6 @@ Esses gráficos e estatísticas visuais complementam os relatórios de cada expe
 
 ---
 
-## 📑 Estrutura dos Arquivos
-
-- `g1_sem_vpn.png` → Hierarquia de protocolos durante acesso ao **g1.com.br** sem VPN  
-- `youtube_sem_vpn.png` → Hierarquia de protocolos durante streaming no **YouTube** sem VPN  
-- `discord_sem_vpn.png` → Hierarquia de protocolos durante comunicação em tempo real no **Discord** sem VPN  
-- `g1_com_vpn.png` → Hierarquia de protocolos durante acesso ao **g1.com.br** com VPN (**Riseup**)  
-- `discord_com_vpn.png` → Hierarquia de protocolos durante comunicação no **Discord** com VPN (**Riseup**)  
-
----
-
 ## 🔍 Como Utilizar
 
 - Use estas imagens como **apoio visual** ao relatório localizado na pasta principal.  
@@ -34,5 +24,3 @@ Esses gráficos e estatísticas visuais complementam os relatórios de cada expe
 - Para análise detalhada, consulte os arquivos `.pcapng` na pasta [`capturas`](../Capturas) e o relatório na pasta principal.  
 
 ---
-
-✍️ **Autor:** Projeto desenvolvido como parte do desafio *30 Dias, 30 Projetos em Cibersegurança*.  
