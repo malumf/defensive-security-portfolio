@@ -37,7 +37,7 @@ A seguir, é apresentado o índice de projetos, organizados de forma sequencial.
 | Dia | Tópico | Status | Relatório |
 |:---:|:---|:---:|:---|
 | 01 | Estruturação do Repositório | ✅ | [Relatório do Setup](01-setup/README.md)|
-| 02 | Desenho de Laboratório (Home Lab) | ✅ |
+| 02 | Desenho de Laboratório (Home Lab) | ✅ | [Relatório do Lab](02-laboratorio-Cloud/README.md) |
   | 03 | Análise de Tráfego de Rede (Baseline) | ✅ | [Relatório do uso do Wireshark](03-wireshark/Relatorio.md) |
 | 04 | Investigação de Ameaças em Captura de Pacotes (PCAP) | ✅ | |
 | 05 | Implementação de Firewall com `iptables` | ✅ 
