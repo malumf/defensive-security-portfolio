@@ -66,13 +66,10 @@ O desenvolvimento do projeto seguiu um processo iterativo de diagnóstico e impl
 O ambiente de laboratório foi implementado com sucesso, e os testes de validação confirmaram sua funcionalidade.
 
 * **Implantação do Serviço Vulnerável:** O contêiner Docker com o `vsftpd 2.3.4` foi construído e executado com sucesso na máquina alvo.
-    `[INSERIR PRINT DO COMANDO 'docker ps' MOSTRANDO O CONTÊINER ATIVO]`
-
+   
 * **Verificação de Conectividade e Reconhecimento:** O scan de portas executado a partir da máquina atacante identificou corretamente as portas abertas na máquina alvo, incluindo a porta 22 (SSH) e a porta 21 (FTP) do serviço vulnerável.
-    `[INSERIR PRINT DO RESULTADO DO 'nmap -Pn <IP_PRIVADO>']`
 
 * **Acesso Seguro e Isolado:** O acesso ao ambiente foi realizado conforme o planejado, utilizando a máquina atacante como *Jump Box* para alcançar a máquina alvo, que permaneceu inacessível pela internet.
-    `[INSERIR PRINT DO TERMINAL MOSTRANDO A SESSÃO SSH DE DENTRO DA VM ATACANTE PARA A VM VÍTIMA]`
 
 ## Conclusão
 
