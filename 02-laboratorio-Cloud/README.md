@@ -22,7 +22,7 @@ A arquitetura final foi implementada na região São Paulo (sa-saulo-1) da OCI. 
    
     * **Sistema:** Ubuntu Server 24.04.
     
-    * **Recursos:** Instância `VM.Standard.E2.1.Micro` (Always Free).
+    * **Recursos:** Instância `VM.Standard.E2.1.Micro`.
     
     * **Localização:** Posicionada na Sub-rede Pública com um Endereço IP Público associado. Funciona como o único ponto de entrada para o laboratório (Bastion Host).
     
@@ -32,7 +32,7 @@ A arquitetura final foi implementada na região São Paulo (sa-saulo-1) da OCI. 
    
     * **Sistema:** Ubuntu Server 18.04 (como base para o contêiner Docker).
     
-    * **Recursos:** Instância `VM.Standard.E2.1.Micro` (Always Free).
+    * **Recursos:** Instância `VM.Standard.E2.1.Micro`.
     
     * **Localização:** Posicionada na Sub-rede Privada, sem Endereço IP Público, garantindo seu isolamento.
     
@@ -45,7 +45,7 @@ A arquitetura final foi implementada na região São Paulo (sa-saulo-1) da OCI. 
 
 O diagrama a seguir ilustra a topologia de rede e a disposição dos componentes do laboratório.
 
-`[INSERIR A IMAGEM DO SEU DIAGRAMA AQUI]`
+![Diagrama do Lab](./Lab.drawio.png)
 
 ## Metodologia
 
